@@ -8,3 +8,4 @@ https://bitonicsoft.itch.io/
 
 ## Members
 * [Dennis Lawter](https://github.com/dennis-lawter/) 
+* [Bryan Barreto](https://github.com/bryan-barreto)
