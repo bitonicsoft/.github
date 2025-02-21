@@ -1,11 +1,11 @@
 # BitonicSoft
 Updates on the various video game projects undertaken by BitonicSoft.
 
+## Games
 https://bitonicsoft.itch.io/
 
-## Projects
-* [The Runs](https://bitonicsoft.itch.io/the-runs) (submitted for Ludum Dare #50)
+## Follow Us
+[@bitonicsoft@peoplemaking.games](https://peoplemaking.games/@bitonicsoft)
 
-## Members
-* [Dennis Lawter](https://github.com/dennis-lawter/) 
-* [Bryan Barreto](https://github.com/bryan-barreto)
+## Info
+This project is ran by [Dennis Lawter](https://github.com/dennis-lawter/)
